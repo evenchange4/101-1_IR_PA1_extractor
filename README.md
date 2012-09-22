@@ -28,6 +28,5 @@ you need to [install ruby](http://www.ruby-lang.org/zh_TW/downloads/ "ruby")
 
 ###Using extractor from the command line
 ``` bash
-  $ cd code
-  $ ruby pa1.rb
+  $ cd code && ruby pa1.rb
 ```
