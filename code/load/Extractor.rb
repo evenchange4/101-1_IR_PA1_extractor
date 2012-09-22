@@ -16,7 +16,7 @@ class Extractor
 		#Lowercasing everything.
 		b = collectionDocument.downcase
 		#Tokenization. char in a array []
-		puts c = b.split(/[,?."\\\s]/)
+		puts c = b.tr(',', '') .split(/[?."\\\s]/)
 		#Stemming using Porter’s algorithm
 		c.each do |term|
 			#Stopword removal.
