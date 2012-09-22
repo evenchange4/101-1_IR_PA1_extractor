@@ -60,7 +60,7 @@ extractor = Extractor.new
 extractor.extract(a, 'result')
 ```
 ### input
-input file
+one [English news documents input file](https://ceiba.ntu.edu.tw/course/b079e8/content/1.txt "download")
 ```
 the white house is also keeping a close watch on yugoslavia, where 
 opposition forces are about to step up the pressure on president slobodan 
