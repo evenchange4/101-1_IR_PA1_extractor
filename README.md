@@ -1,5 +1,5 @@
 # Ruby Term Extractor
-The Programming Assignment 1 report from NTU101-1 IR course
+The Programming Assignment 1 report from [NTU101-1 IR Course](http://goo.gl/azVrC"Course")
 
 **by NTU [Michael Hsu](https://www.facebook.com/evenchange4 "facebook")**
 
