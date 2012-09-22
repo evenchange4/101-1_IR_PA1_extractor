@@ -126,3 +126,4 @@ source code, and 3.a report to TA.
 ## Other Resources
 1.  [Ruby String Classes](http://www.ruby-doc.org/core-1.9.2/String.html)
 2.  [Stemming using Porter’s algorithm](https://github.com/raypereda/stemmify)
+3.  [stop_words](http://ir.dcs.gla.ac.uk/resources/linguistic_utils/stop_words "download stop_words")
