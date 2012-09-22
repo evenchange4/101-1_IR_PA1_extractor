@@ -4,6 +4,10 @@ NTU101-1 IR course Programming Assignment 1 report
 
 **by NTU [Michael Hsu](https://www.facebook.com/evenchange4 "facebook")**
 
+asdlfkhdkghf
+
+
+
 ## PA framework
 ###code/load/Extractor.rb
 Extractor class
