@@ -1,4 +1,4 @@
-# Ruby Documents Extractor
+# Ruby Term Extractor
 The Programming Assignment 1 report from NTU101-1 IR course
 
 **by NTU [Michael Hsu](https://www.facebook.com/evenchange4 "facebook")**
@@ -106,3 +106,6 @@ result output file example
 ### PA1.pdf
 PA1 Spec from class
 
+## Other Resources
+1.  [Ruby String Classes](http://www.ruby-doc.org/core-1.9.2/String.html)
+2.  [Stemming using Porter’s algorithm](https://github.com/raypereda/stemmify)
