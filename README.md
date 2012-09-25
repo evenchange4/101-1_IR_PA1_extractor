@@ -12,7 +12,7 @@ If you do not have Ruby setup, please [install ruby](http://www.ruby-lang.org/zh
   $ cd code && ruby pa1.rb
 ```
 
-## The Structure
+## Architecture
 ### code/load/Extractor.rb
 Extractor class
 ```
